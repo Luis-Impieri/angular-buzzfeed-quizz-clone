@@ -1,55 +1,61 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"De qual time de Haikyuu você seria?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Qual destas cores você mais gosta?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Laranja", "alias":"A"},
+        {"id": 2, "name":"Azul", "alias":"B"},
+        {"id": 3, "name":"Roxo", "alias":"D"},
+        {"id": 4, "name":"Vermelho", "alias":"C"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "A melhor estratégia para vencer é ?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Tentar esmagar seus oponentes rapidamente", "alias":"D"},
+        {"id": 2, "name":"Velocidade de reação e adptação", "alias":"A"},
+        {"id": 3, "name":"Controlar o campo e saques precisos", "alias":"B"},
+        {"id": 4, "name":"Afetar o psicológico do adversário e analisar suas ações", "alias":"C"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Um capitão ideal é alguem que ?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Usa sua habilidades para tirar o melhor de casa membro", "alias":"B"},
+        {"id": 2, "name":"Serve como um pilar emocional e lógico e uma fonte de liderança", "alias":"A"},
+        {"id": 3, "name":"Carrega o time nas costas", "alias":"D"},
+        {"id": 4, "name":"Da espaço para cada um usar o que tem de melhor", "alias":"C"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "A melhor forma de virar um jogo é ?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Apostar em jogadas novas", "alias":"A"},
+        {"id": 2, "name":"Tentar abusar dos erros e cansaço do oponente", "alias":"C"},
+        {"id": 3, "name":"Segurar até surgir uma oportunidade", "alias":"B"},
+        {"id": 4, "name":"Apostar tudo na estrela do time", "alias":"D"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "A estrela de um time pode carregar um jogo sozinho ?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Sim, se ele for claramente superior", "alias":"D"},
+        {"id": 2, "name":"Sim, se ele conseguir usar ao máximo as habilidades dos companheiros", "alias":"B"},
+        {"id": 3, "name":"Não, pois abre espaço para falhas e sobrecarga", "alias":"C"},
+        {"id": 4, "name":"Não, pois a união de todos faz a força", "alias":"A"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você muito provavelmente seria do Karasuno!",
+    "B": "Você muito provavelmente seria do Aoba Jousai!",
+    "C": "Você muito provavelmente seria do Nekoma!",
+    "D": "Você muito provavelmente seria do Shiratorizawa!"
   }
 }
